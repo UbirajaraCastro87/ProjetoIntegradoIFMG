@@ -37,6 +37,8 @@ python -m http.server 8000
 
 Abra `http://localhost:8000` no navegador.
 
+https://ubirajaracastro87.github.io/ProjetoIntegradoIFMG/
+
 ## Testes
 
 Os testes usam o executor nativo do Node.js, sem bibliotecas externas:
